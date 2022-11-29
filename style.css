@@ -1,0 +1,15 @@
+p{
+    background-color: aqua;
+}
+.second{
+    border: 6px solid;
+    color: brown;
+    padding: 10px;
+    margin: 25px;
+}
+
+div {
+    border: 1px solid;
+    padding: 40px;
+    margin: 40px;
+}
